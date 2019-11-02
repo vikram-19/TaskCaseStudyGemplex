@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MStar</string>
+    <string name="desc_bollywood">A funny take on bollywood, where a school full of students posing as current bollywood starts and their teachers are ex-superstars of the hindi film industry. \n</string>
+    <string name="desc_real_land">Two tyrant brothers Amarpal and Samarpal who have ruled the land on their own terms for more than three decades, cross path with a young boy Ajit Yadav who happens to be the son of their driver, then begins the battle of casteism, power and greed that threatens the throne of the land without law. \n\n Director : Vivek Srivastav \n Starring :  \n Gneres : Drama Action Thriller \n Language List : Hindi \n Age Limit : 18+ \n</string>
+    <string name="read_less">Read Less</string>
+    <string name="read_more">Read More</string>
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
